@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there! I'm **Minh Nguyệt** 
 
-<!--
-**MinhNguyetDuckoo/MinhNguyetDuckoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Nguyen+Minh+Nguyet+%F0%9F%A4%96)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+🎓 **2nd year student** majoring in **Data Science**  
+📍 Living in **Quận 7, Hồ Chí Minh**, Vietnam  
+💻 Currently working with **Visual Studio Code Extension**  
+📚 **Learning:** Python, TensorFlow, NumPy, PyTorch, Pandas, PostgresSQL  
+🤝 **Open to collaborating** on community service projects  
+
+---
+
+## 🔧 **Tools & Languages**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="60" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+</p>
+
+---
+
+## 📫 **Contact me:**
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-decomchay@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:decomchay@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow%20me-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+**Show some ❤️ by starring some of the repositories!**
+
+</div>
