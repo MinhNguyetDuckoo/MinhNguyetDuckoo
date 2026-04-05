@@ -41,8 +41,6 @@
 
 <!-- NEW: BI Tools -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/>
-
 <!-- NEW: R -->
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="40" height="40"/>
 
