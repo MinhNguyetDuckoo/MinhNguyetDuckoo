@@ -34,11 +34,6 @@
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
 
-<!-- NEW: Cloud -->
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-
 <!-- NEW: BI Tools -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 <!-- NEW: R -->
